@@ -1,0 +1,26 @@
+#Ignore Dockerfile
+Dockerfile
+
+#Ignore unnecessary data
+misc/
+research/
+result/
+
+#Ignore vscode config
+.vscode/
+
+#Ignore zip files
+**/*.zip
+
+#Ignoring git and cache folders
+**/.git-blame-ignore-revs
+**/.git
+**/.github
+**/.gitignore
+**/.cache
+
+#Ignoring all markdown files
+*.md
+
+#Ignore build
+**/build/

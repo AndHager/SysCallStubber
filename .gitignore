@@ -1,0 +1,15 @@
+**/.vscode
+**/build
+**/out
+
+fuzz-*.txt
+*.zip
+
+**/*.ll
+
+result/
+
+test.log
+t.txt
+hello_repl
+/.git
